@@ -10,7 +10,6 @@ on:
       - master
       - source
 
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
