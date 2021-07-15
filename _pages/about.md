@@ -17,4 +17,4 @@ Hi! My name is Lucas, and I'm a PhD candidate at the UC Davis [Atmospheric Scien
 ### Links:
 * [Github](https://github.com/lsterzinger)
 * [ORCiD](https://orcid.org/0000-0003-3321-4534)
-* [CV](https://github.com/lsterzinger/resume/blob/master/resume.pdf)
+* [CV](https://github.com/lsterzinger/resume/blob/master/CV/sterzinger-cv.pdf)
