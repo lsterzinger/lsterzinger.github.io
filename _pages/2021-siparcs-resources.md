@@ -4,7 +4,7 @@ title: SIParCS Poster Supplemental Material
 permalink: /2021-siparcs-poster/
 nav: false
 ---
-The slides of my talk are [available here](https://docs.google.com/presentation/d/1tmy6go_J7_lmgcsskdQgZcuLvYoZkOW5FAjPBQDfcNQ/edit?usp=sharing), and the poster is [availabe here](https://drive.google.com/file/d/1qU8Aq8v1n-Zs5mKCmYht_zO0xjNpiIEm/view?usp=sharing).
+The slides of my talk are [available here](https://lucassterzinger.com/assets/siparcs-2021/Sterzinger_Lucas_Slides.pdf), and the poster is [availabe here](https://lucassterzinger.com/assets/siparcs-2021/13_Lucas_Sterzinger.pdf).
 
 ### fsspec-reference-maker GitHub
 [https://github.com/intake/fsspec-reference-maker](https://github.com/intake/fsspec-reference-maker)
