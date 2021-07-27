@@ -6,17 +6,16 @@ nav: false
 ---
 The slides of my talk are [available here](https://lucassterzinger.com/assets/siparcs-2021/Sterzinger_Lucas_Slides.pdf), and the poster is [availabe here](https://lucassterzinger.com/assets/siparcs-2021/13_Lucas_Sterzinger.pdf).
 
-### fsspec-reference-maker GitHub
-[https://github.com/intake/fsspec-reference-maker](https://github.com/intake/fsspec-reference-maker)
+### ReferenceMaker
+* [Main Github Page](https://github.com/intake/fsspec-reference-maker)
+* [Tutorial I wrote on using ReferenceMaker](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
+    * [Github Repo](https://github.com/lsterzinger/fsspec-reference-maker-tutorial)
+    * [Interactive Example](https://binder.pangeo.io/v2/gh/lsterzinger/fsspec-reference-maker-tutorial/main)
+
 
 ### SIParCS Benchmark Notebooks
 These are the notebooks used to test the GOES-16 workflow (presented in the poster/talk above) with different data access methods.
 * [https://github.com/lsterzinger/cloud-optimized-satellite-data-tests](https://github.com/lsterzinger/cloud-optimized-satellite-data-tests)
-
-### ReferenceMaker Tutorial
-* [Tutorial I wrote on using ReferenceMaker](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
-    * [Github Repo](https://github.com/lsterzinger/fsspec-reference-maker-tutorial)
-    * [Interactive Example](https://binder.pangeo.io/v2/gh/lsterzinger/fsspec-reference-maker-tutorial/main)
 
 
 ### Pangeo Ecosystem
