@@ -13,6 +13,12 @@ The slides of my talk are [available here](https://lucassterzinger.com/assets/si
 These are the notebooks used to test the GOES-16 workflow (presented in the poster/talk above) with different data access methods.
 * [https://github.com/lsterzinger/cloud-optimized-satellite-data-tests](https://github.com/lsterzinger/cloud-optimized-satellite-data-tests)
 
+### ReferenceMaker Tutorial
+* [Tutorial I wrote on using ReferenceMaker](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
+    * [Github Repo](https://github.com/lsterzinger/fsspec-reference-maker-tutorial)
+    * [Interactive Example](https://binder.pangeo.io/v2/gh/lsterzinger/fsspec-reference-maker-tutorial/main)
+
+
 ### Pangeo Ecosystem
 Pangeo is an ecosystem run by scientists and developers who work together to make analysis of big data as painless and powerful as possible.
 * Pangeo Homepage -- [https://pangeo.io/](https://pangeo.io/)
