@@ -14,6 +14,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi! My name is Lucas, and I'm a PhD candidate at the UC Davis [Atmospheric Science Graduate Group](http://atm.ucdavis.edu) working in the [Cloud Physics Research Group](https://adele.faculty.ucdavis.edu)
 
+This website is hosted on [Github Pages](https://pages.github.com/) using [alshedivat's "al-folio" theme](https://github.com/alshedivat/al-folio). You can see the [source code for this site here](https://github.com/lsterzinger/lsterzinger.github.io).
+
 ### Links:
 * [Github](https://github.com/lsterzinger)
 * [ORCiD](https://orcid.org/0000-0003-3321-4534)
