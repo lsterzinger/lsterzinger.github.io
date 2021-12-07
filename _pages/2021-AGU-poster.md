@@ -8,6 +8,7 @@ nav: false
 ## AGU
 * [Lightening talk slides](../assets/pdf/agu-kerchunk.pdf)
 * [Link to poster](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=D8-E7-AB-FD-34-05-5D-2E-97-90-DA-10-DC-8C-83-7E&guestview=true) 
+
 ### Kerchunk
 * [`Kerchunk` on GitHub](https://github.com/intake/kerchunk)
 * [Tutorial I wrote on using Kerchunk (called fsspec-reference-maker at the time)](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
