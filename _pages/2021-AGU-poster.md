@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AGU Poster Supplemental Material
+title: AGU Kerchunk Poster Supplemental Material
 permalink: /2021-agu-poster/
 nav: false
 ---
