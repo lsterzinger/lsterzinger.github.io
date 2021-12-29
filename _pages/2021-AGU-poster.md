@@ -16,6 +16,7 @@ nav: false
 * [Tutorial I wrote on using Kerchunk (called fsspec-reference-maker at the time)](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
     * [Github Repo](https://github.com/lsterzinger/fsspec-reference-maker-tutorial)
     * [Interactive Example](https://binder.pangeo.io/v2/gh/lsterzinger/fsspec-reference-maker-tutorial/main)
+* [More Recent Interactive Example](https://github.com/lsterzinger/maptimedavis-fsspec)
 
 
 ### Kerchunk Benchmark Notebooks
