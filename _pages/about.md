@@ -19,4 +19,4 @@ This website is hosted on [Github Pages](https://pages.github.com/) using [alshe
 ### Links:
 * [Github](https://github.com/lsterzinger)
 * [ORCiD](https://orcid.org/0000-0003-3321-4534)
-* [CV](https://github.com/lsterzinger/resume/blob/master/CV/sterzinger-cv.pdf)
+* [CV](https://raw.githubusercontent.com/lsterzinger/resume/master/CV/sterzinger-cv.pdf)
