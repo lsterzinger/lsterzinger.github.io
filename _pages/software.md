@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /software/
 title: software projects
 description: Description of software projects I am involved with.
 nav: true
