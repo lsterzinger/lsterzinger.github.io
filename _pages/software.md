@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Software Projects
+title: software projects
 description: Description of software projects I am involved with.
 nav: true
 ---
