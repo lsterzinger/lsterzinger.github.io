@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /software/
-title: software projects
+title: Software Projects
 description: Description of software projects I am involved with.
 nav: true
 ---
