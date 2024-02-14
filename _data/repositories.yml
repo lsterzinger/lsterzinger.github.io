@@ -2,7 +2,7 @@ github_users:
   - lsterzinger
 
 github_repos:
-  - lsterzinger/lsterzinger.github.io
   - lsterzinger/pyrams
-  - fsspec/kerchunk
   - lsterzinger/2022-esip-kerchunk-tutorial
+  - fsspec/kerchunk
+  - lsterzinger/lsterzinger.github.io
