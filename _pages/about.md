@@ -17,6 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi! My name is Lucas, and I'm a Scientific Software Developer at NASA's Goddard Earth Sciences Data Information Services Center [GES DISC](https://disc.gsfc.nasa.gov/).
 
+I am based in the Seattle, WA area.
+
 I recently finished my PhD at the UC Davis [Atmospheric Science Graduate Group](http://atm.ucdavis.edu) working in the [Cloud Physics Research Group](https://adele.faculty.ucdavis.edu)
 
 I'm passionate about open source and open science.
