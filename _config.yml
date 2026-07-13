@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: lsterzinger # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: lucassterzinger # your Twitter handle
+# twitter_username: lucassterzinger # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid:  W5M2bZkAAAAJ # your Google Scholar ID
 mastodon_username: fosstodon.org/@lsterzinger # your mastodon instance+username in the format instance.tld/@username
